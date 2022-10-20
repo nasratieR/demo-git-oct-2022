@@ -3,4 +3,9 @@ document.onsubmit = function(){
     alert("message envoyé !");
 }
 
-console.log("hello");
+/*document.querySelector("form").addEventListener("submit" , function(e){
+    e.preventDefault();
+    alert("hello");
+    
+})
+*/
