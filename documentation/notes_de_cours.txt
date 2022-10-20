@@ -1,0 +1,25 @@
+-- Premiere commande à saisir qu'une seule fois
+-- crée un dépot/repository  dossier local
+-- ATTENTION, il faut saisir cette commande en choisissant le PATH de la racine
+   du projet que l'on veut suivre
+
+git init 
+ => dossier .git crée (à ne pas manipuler)
+
+git config --user.name "Nasratie R"
+git congit --user.email "nasratie145@gmail.com"
+git config -l
+
+ajout de l'utilisateur du git
+
+-----------------
+
+git status
+ => vous etes sur la branche master
+    conseil de suivis
+
+------------------
+
+git add index.html
+
+git commit -m "creation page index.html"

@@ -18,6 +18,15 @@
     font-size: 18px;
 }
 
+.aera{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    font-size: 18px;
+}
+
 .button{
     font-size: 18px;
     padding: 8px;
