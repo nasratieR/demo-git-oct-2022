@@ -7,3 +7,24 @@
     box-sizing: border-box;
     border: 2px solid blue;
 }
+
+.text{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    font-size: 18px;
+}
+
+.button{
+    font-size: 18px;
+    padding: 8px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    color: grey;
+   
+}
+
+.button:hover{
+    box-shadow: 2px 2px 8px lightskyblue;
+}
