@@ -6,9 +6,12 @@
     padding: 0 20px;
     box-sizing: border-box;
     border: 2px solid blue;
+    text-align: center;
 }
 
 .text{
+    width: 100%;
+    box-sizing: border-box;
     margin: 10px;
     padding: 10px;
     border: 1px solid lightgrey;
@@ -18,11 +21,11 @@
 .button{
     font-size: 18px;
     padding: 8px;
+    margin: 10px;
     background-color: lightblue;
     border: none;
     border-radius: 5px;
     color: grey;
-   
 }
 
 .button:hover{
